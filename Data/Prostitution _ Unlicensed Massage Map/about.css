@@ -1,0 +1,32 @@
+body {
+    background-color: beige;
+}
+
+#header {
+    position: absolute;
+    width: 1728px;
+    height: 44px;
+    background-color: #220000;
+    left: 0;
+    top: 0;
+}
+
+.button {
+    margin: 8px;
+    background-color: #220000;
+    color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-right: 82px;
+}
+
+.button:hover {
+    background-color: white;
+    color: #220000;
+    transition: 0.7s;
+}
+
+.button-container{
+    margin-left: 699px;
+}
