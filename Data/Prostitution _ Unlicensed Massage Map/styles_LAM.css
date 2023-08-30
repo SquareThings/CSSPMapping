@@ -39,7 +39,7 @@ padding: 20px;
 #sidebar {
 position: absolute;
 width: 392px;
-height: 750px;
+height: 100%;
 background-color: beige;
 right: 0;
 }
