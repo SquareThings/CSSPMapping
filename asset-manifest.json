@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CSSPMapping/static/css/main.4860353d.css",
+    "main.js": "/CSSPMapping/static/js/main.ddb18569.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CSSPMapping/static/js/787.28cb0dcd.chunk.js",
+    "static/media/NJ.jpeg": "/CSSPMapping/static/media/NJ.be1f785905010445897e.jpeg",
+    "static/media/EBGaramond-Medium.ttf": "/CSSPMapping/static/media/EBGaramond-Medium.1d8109093c288b5cdafc.ttf",
+    "static/media/EBGaramond-Italic.ttf": "/CSSPMapping/static/media/EBGaramond-Italic.a498ec9c34e6bbd355e5.ttf",
+    "static/media/nyc.jpeg": "/CSSPMapping/static/media/nyc.4beb61daa8b937ead37a.jpeg",
+    "static/media/bird.png": "/CSSPMapping/static/media/bird.6a8135c408a39e7c6d47.png",
+    "static/media/redDecor.png": "/CSSPMapping/static/media/redDecor.6fe511bf7b63f09d761a.png",
+    "static/media/logo.png": "/CSSPMapping/static/media/logo.e0ad998f301bd08b7ee1.png",
+    "index.html": "/CSSPMapping/index.html",
+    "main.4860353d.css.map": "/CSSPMapping/static/css/main.4860353d.css.map",
+    "main.ddb18569.js.map": "/CSSPMapping/static/js/main.ddb18569.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CSSPMapping/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4860353d.css",
+    "static/js/main.ddb18569.js"
+  ]
+}
